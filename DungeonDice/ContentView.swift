@@ -28,7 +28,7 @@ struct ContentView: View {
     let horizontalPadding: CGFloat = 16
     let spacing: CGFloat = 0 //between buttons
     let buttonWidth: CGFloat = 102
-     
+      
     var body: some View {
         GeometryReader { geo in
             VStack {
