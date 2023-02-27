@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		594AD48729A8620B00BB80E7 /* ButtonLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 594AD48629A8620B00BB80E7 /* ButtonLayoutView.swift */; };
 		59E5F7E329A2DAC3001E4437 /* DungeonDiceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E5F7E229A2DAC3001E4437 /* DungeonDiceApp.swift */; };
 		59E5F7E529A2DAC3001E4437 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E5F7E429A2DAC3001E4437 /* ContentView.swift */; };
 		59E5F7E729A2DAC4001E4437 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59E5F7E629A2DAC4001E4437 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		594AD48629A8620B00BB80E7 /* ButtonLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLayoutView.swift; sourceTree = "<group>"; };
 		59E5F7DF29A2DAC3001E4437 /* DungeonDice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DungeonDice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59E5F7E229A2DAC3001E4437 /* DungeonDiceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonDiceApp.swift; sourceTree = "<group>"; };
 		59E5F7E429A2DAC3001E4437 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				59E5F7E229A2DAC3001E4437 /* DungeonDiceApp.swift */,
 				59E5F7E429A2DAC3001E4437 /* ContentView.swift */,
+				594AD48629A8620B00BB80E7 /* ButtonLayoutView.swift */,
 				59E5F7E629A2DAC4001E4437 /* Assets.xcassets */,
 				59E5F7E829A2DAC4001E4437 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				59E5F7E529A2DAC3001E4437 /* ContentView.swift in Sources */,
+				594AD48729A8620B00BB80E7 /* ButtonLayoutView.swift in Sources */,
 				59E5F7E329A2DAC3001E4437 /* DungeonDiceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
